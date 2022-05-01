@@ -1,0 +1,12 @@
+{
+  "name": "first-practie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Francisco Sarría <franasarria@gmail.com>",
+  "license": "ISC"
+}
